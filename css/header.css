@@ -1,0 +1,16 @@
+.container{
+    margin-top: 2rem;
+    background: white;
+}
+
+.navbar-brand{
+    font-size: 3.2rem;
+}
+
+.nav-item{
+    padding-left: 5rem;
+}
+
+.nav-link{
+    font-size: 2.0rem;
+}

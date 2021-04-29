@@ -1,0 +1,25 @@
+.content{
+   position: relative;
+   width: 100%;
+}
+
+.wenben{
+    position: absolute;
+    left: 12%;
+    top: 20rem;
+}
+
+.content img{
+    height: 10rem;
+    width: 10rem;
+}
+
+.content p{
+    font-size: medium;
+    color: black
+
+}
+
+.media{
+    margin-top: 2rem;
+}
